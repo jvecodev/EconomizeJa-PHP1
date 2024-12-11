@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=SUSE:wght@100..800&display=swap');
+:root{
+    --primary-font: 'Roboto Mono', monospace;
+}
+body{
+    font-family: var(--primary-font);
+}
+.w3-theme {
+    color: #ffff !important;
+    background-color: #107336 !important
+}
+
+.w3-code {
+    border-left: 4px solid #9FC2E8
+}
+
+.w3-text-IE {
+    color:#384655!important
+}
+
+.myMenu {
+    margin-bottom: 150px
+}
+
+#Imagem {
+    display: none
+}
+
+#imagemSelecionada {
+    width: 20%;
+    height: auto;
+}
+
+
+
